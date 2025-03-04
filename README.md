@@ -1,6 +1,6 @@
 # Scraping Shopee dengan Proxy
 
-Proyek ini adalah aplikasi **scraper Shopee** menggunakan `mitmproxy` dan MongoDB untuk menyimpan data hasil scraping.
+Proyek ini adalah aplikasi **scraper Shopee** menggunakan `Tembelek` dan MongoDB untuk menyimpan data hasil scraping.
 
 ## 📌 Fitur:
 - 🔍 **Intercept API Shopee** menggunakan `mitmproxy`
@@ -11,5 +11,4 @@ Proyek ini adalah aplikasi **scraper Shopee** menggunakan `mitmproxy` dan MongoD
 ## 📦 Instalasi
 ### **1️⃣ Clone Repository (Opsional)**
 ```sh
-git clone https://github.com/username/my_project.git
-cd my_project
+git clone https://github.com/username/my_project](https://github.com/horahora04/BozzHans.git
