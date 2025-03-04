@@ -11,4 +11,4 @@ Proyek ini adalah aplikasi **scraper Shopee** menggunakan `Tembelek` dan MongoDB
 ## 📦 Instalasi
 ### **1️⃣ Clone Repository (Opsional)**
 ```sh
-git clone https://github.com/username/my_project](https://github.com/horahora04/BozzHans.git
+git clone https://github.com/horahora04/BozzHans.git
